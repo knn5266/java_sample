@@ -1,0 +1,16 @@
+/* Html */
+body { text-align: center; }
+h1 { margin: 0; }
+* { font-size: clamp(12px, 8vw, 48px); }
+
+/* Exec */
+#exec {
+    width: 9em;
+    box-sizing: border-box;
+}
+
+/* Output */
+#output ul {
+    display: inline-block;
+    margin: 0 auto;
+}
